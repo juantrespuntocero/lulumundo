@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="url_logo" group-title="Deportes",Canal de Prueba 1
-plugin://script.module.horus/?action=play&id=30b600cc48899991b452805df48b68d998e61c
+plugin://script.module.horus/?action=play&id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-logo="url_logo" group-title="Deportes",Canal de Prueba 2
-plugin://script.module.horus/?action=play&id=897e73c9d578848f596585314ecb9ae067c0e229
+plugin://script.module.horus/?action=play&id=8c30b600cc48899991b452805df48b68d998e61c
