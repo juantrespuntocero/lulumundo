@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SkySports" group-title="Deportes",Sky Sports Premier
-acestream://f1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0
-#EXTINF:-1 tvg-id="Eurosport1" group-title="Deportes",Eurosport 1
-acestream://a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0
-#EXTINF:-1 tvg-id="NBA" group-title="Deportes",NBA League Pass
-acestream://z1y2x3w4v5u6t7s8r9q0p1o2n3m4l5k6j7i8h9g0
-
-
