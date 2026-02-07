@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",Nombre del Canal
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",La Liga M+ 1
 plugin://script.module.horus/?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",La Liga M+ 2
+plugin://script.module.horus/?action=play&id=af458073c3096293a4dea9f369d4f308e7125bd6
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",La Liga M+ 3
+plugin://script.module.horus/?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",La Liga M+ 4
+plugin://script.module.horus/?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+
