@@ -7,5 +7,15 @@ plugin://script.module.horus/?action=play&id=af458073c3096293a4dea9f369d4f308e71
 plugin://script.module.horus/?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",La Liga M+ 4
 plugin://script.module.horus/?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",DAZN1
+plugin://script.module.horus/?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",DAZN LIGA
+plugin://script.module.horus/?action=play&id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",LIGA DE CAMPEONES 1
+plugin://script.module.horus/?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",LIGA DE CAMPEONES 2
+plugin://script.module.horus/?action=play&id=0f7842f8b6c26571e5a974407b61623e56e6a052
+
+
 
 
