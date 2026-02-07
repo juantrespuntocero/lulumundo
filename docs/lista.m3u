@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="logo_url" group-title="Grupo",Nombre del Canal
-acestream://ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
+plugin://script.module.horus/?action=play&id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c
